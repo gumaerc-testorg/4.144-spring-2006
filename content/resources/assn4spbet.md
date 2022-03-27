@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ac337601-501c-f27b-8690-68bfce992020
 resourcetype: Document
 title: assn4spbet.pdf
 uid: 2c68b35e-885a-883b-17a9-27e07f8341ad

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 77ae00c2-3176-9ce2-e738-819f4c84cfc8
 resourcetype: Document
 title: introstatement.pdf
 uid: 7492f843-d662-e4a6-4845-990e27375268

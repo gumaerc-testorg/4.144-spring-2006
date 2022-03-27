@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4dabe028-4453-da72-0699-cadb37daea20
 resourcetype: Document
 title: neworleans_1.pdf
 uid: a8fadf1a-ae98-b65b-295d-3c05774abbd6

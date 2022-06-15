@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problems to test students understanding of course
+  material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1form))
+Assignment 1 ({{% resource_link 1c581274-28d9-8d9a-6282-4f6a79a6f829 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1form))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4 ([PDF]({{< baseurl >}}/resources/assn4spbet))
+Assignment 4 ({{% resource_link 2c68b35e-885a-883b-17a9-27e07f8341ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Assignment 4 ([PDF]({{< baseurl >}}/resources/assn4spbet))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 7 ([PDF]({{< baseurl >}}/resources/assn7mid))
+Assignment 7 ({{% resource_link cd18d4ec-c1dc-1815-4ad4-8a32bcaf04f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Assignment 7 ([PDF]({{< baseurl >}}/resources/assn7mid))
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 10 ([PDF]({{< baseurl >}}/resources/assn10final))
+Assignment 10 ({{% resource_link 884346e4-c060-cd9f-121e-90d9d58377d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

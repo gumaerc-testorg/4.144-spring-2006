@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria participation guidelines and a guide to the instructor?s evaluation
+  of case write-ups.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 77ae00c2-3176-9ce2-e738-819f4c84cfc8
 ---
@@ -39,4 +44,4 @@ Other issues to be explored during the semester:
 
 At the end of the studio we will invite community, city and NGO groups to our final review and organized the designs into a small publication to send to New Orleans.
 
-View the instructor's introductory statement about the studio ([PDF]({{< baseurl >}}/resources/introstatement)).
+View the instructor's introductory statement about the studio ({{% resource_link 7492f843-d662-e4a6-4845-990e27375268 "PDF" %}}).

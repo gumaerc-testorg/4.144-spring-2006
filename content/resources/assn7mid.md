@@ -5,6 +5,7 @@ file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn7mid.pdf
 uid: cd18d4ec-c1dc-1815-4ad4-8a32bcaf04f1
 ---
 This resource contains information on overall design at 1/16" scale.
-

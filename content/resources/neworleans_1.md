@@ -6,6 +6,7 @@ file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: neworleans_1.pdf
 uid: a8fadf1a-ae98-b65b-295d-3c05774abbd6
 ---
 This resource includes information on the work of the semester in a book designed by the studio and presented to the constituency in New Orleans.
-

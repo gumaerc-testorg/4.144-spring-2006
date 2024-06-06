@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on space between horizontals and verticals
   models.
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/2c68b35e885a883b17a927e07f8341ad_assn4spbet.pdf
+file_size: 11251
 file_type: application/pdf
 learning_resource_types:
 - Assignments

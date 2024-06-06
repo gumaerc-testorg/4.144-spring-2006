@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on overall design at 1/16" scale.
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/cd18d4ecc1dc18154ad48a32bcaf04f1_assn7mid.pdf
+file_size: 12270
 file_type: application/pdf
 learning_resource_types:
 - Assignments

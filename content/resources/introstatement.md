@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the summary statement of design studio project
   in New Orleans.
-file: /ol-ocw-studio-app/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/7492f843d662e4a64845990e27375268_introstatement.pdf
+file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/7492f843d662e4a64845990e27375268_introstatement.pdf
 file_size: 16014
 file_type: application/pdf
 learning_resource_types: []
